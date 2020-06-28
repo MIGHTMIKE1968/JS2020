@@ -11,3 +11,4 @@ console.log(fullAge);
 var job;
 job = 'Web Designer';
 console.log(firstName + " is a " + job + ".");
+
